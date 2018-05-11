@@ -1,0 +1,9 @@
+@import 'bootstrap';
+
+$bg-color: yellow;
+$font-color: black;
+
+body {
+    background: $bg-color;
+    color: $font-color;
+}
