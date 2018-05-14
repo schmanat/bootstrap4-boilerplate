@@ -127,4 +127,4 @@ gulp.task('clean', function() {
     del([paths.tmp, paths.dist]);
 });
 
-gulp.task('default', ['watch'])
+gulp.task('default', ['watch']);

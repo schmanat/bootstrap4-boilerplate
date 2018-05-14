@@ -1,9 +1,6 @@
 @import 'bootstrap';
-
-$bg-color: yellow;
-$font-color: black;
+@import '_variables.scss';
 
 body {
-    background: $bg-color;
-    color: $font-color;
+    background: $primary;
 }
